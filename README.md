@@ -1,1 +1,1 @@
-# healthcare-appointment-scheduling-sjf
+# Healthcare Appointment Scheduler SJF
